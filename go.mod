@@ -1,4 +1,4 @@
-module github.com/labstack/echo/v4
+module github.com/WinnerSoftLab/echo
 
 go 1.17
 
